@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@lorenzopuppo95/random-color": "^1.0.0"
+  },
+  "type": "module"
+}
